@@ -44,8 +44,16 @@ Here are some of the projects I've worked on:
 2. Angular Calculator with TypeScript:** Using angular some html and css and type script created a great flawless calculator
 3. Piano Tile Ai:** Using python and machine image recognition constructed a piano tile Ai that auto plays the game, Furthur will be giving it a gui and make it more user friendly
 
-## Extra
+## Connect with Me
 
+You can connect with me on:
+- [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/seif-wael-elsayed/))
+- [LeetCode]([https://leetcode.com/your-username/](https://leetcode.com/SeifWaelElsayed/))
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/your-username/"><img src="https://img.icons8.com/color/48/000000/leetcode.png" alt="LeetCode"></a>
+</p>
 
 
 
