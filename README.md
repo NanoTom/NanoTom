@@ -47,8 +47,8 @@ Here are some of the projects I've worked on:
 ## Connect with Me
 
 You can connect with me on:
-- [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/seif-wael-elsayed/))
-- [LeetCode]([https://leetcode.com/your-username/](https://leetcode.com/SeifWaelElsayed/))
+- [LinkedIn]((https://www.linkedin.com/in/seif-wael-elsayed/))
+- [LeetCode]((https://leetcode.com/SeifWaelElsayed/))
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
