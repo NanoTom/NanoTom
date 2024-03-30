@@ -6,7 +6,7 @@
 
 <!-- Header -->
 <p align="center">
-  <img src="https://github.com/username/logo.png" alt="Logo" width="80" height="80">
+   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="80" height="80">
 </p>
 <h1 align="center">Welcome to Seif's GitHub Profile</h1>
 
@@ -43,6 +43,11 @@ Here are some of the projects I've worked on:
 1. Youtube Vid Downloader with python:** Using pytube and tkinter was able to make a beautiful and fast youtube video downloader and currently working on improving it even furthur
 2. Angular Calculator with TypeScript:** Using angular some html and css and type script created a great flawless calculator
 3. Piano Tile Ai:** Using python and machine image recognition constructed a piano tile Ai that auto plays the game, Furthur will be giving it a gui and make it more user friendly
+
+## Extra
+
+
+
 
 Feel free to explore my repositories to learn more about my work!
 
