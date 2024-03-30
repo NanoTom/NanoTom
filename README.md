@@ -51,8 +51,8 @@ You can connect with me on:
 - [LeetCode]((https://leetcode.com/SeifWaelElsayed/))
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
-  <a href="https://leetcode.com/your-username/"><img src="https://img.icons8.com/color/48/000000/leetcode.png" alt="LeetCode"></a>
+  <a href="https://www.linkedin.com/in/seif-wael-elsayed/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/SeifWaelElsayed/"><img src="https://img.icons8.com/color/48/000000/leetcode.png" alt="LeetCode"></a>
 </p>
 
 
