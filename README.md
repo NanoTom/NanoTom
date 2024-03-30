@@ -52,7 +52,7 @@ You can connect with me on:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/seif-wael-elsayed/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
-  <a href="https://leetcode.com/SeifWaelElsayed/"><img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="LeetCode"></a>
+  <a href="https://leetcode.com/SeifWaelElsayed/"><img src="https://icons8.com/icon/9L16NypUzu38/level-up-your-coding-skills-and-quickly-land-a-job" alt="LeetCode"></a>
 </p>
 
 
