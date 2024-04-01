@@ -40,7 +40,7 @@ Hello there! I'm Seif Wael, a passionate software and Ai developer with expertis
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular">
 </p>
-   -Ai and machine learning using python
+   - Ai and machine learning using python
 
 
 
