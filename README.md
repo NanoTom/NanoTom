@@ -24,6 +24,11 @@ Hello there! I'm Seif Wael, a passionate software and Ai developer with expertis
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java">
 </p>
 
+### Good With:
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL">
+</p>
+
 ### Decent with:
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
@@ -33,8 +38,11 @@ Hello there! I'm Seif Wael, a passionate software and Ai developer with expertis
 
 ### Currently Learning:
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL">
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular">
+   * Ai and machine learning using python
 </p>
+
+
 
 ## Projects
 
