@@ -39,8 +39,8 @@ Hello there! I'm Seif Wael, a passionate software and Ai developer with expertis
 ### Currently Learning:
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular">
-   * Ai and machine learning using python
 </p>
+   -Ai and machine learning using python
 
 
 
