@@ -26,6 +26,7 @@ Hello there! I'm Seif Wael, a passionate software and Ai developer with expertis
 
 ### Good With:
 <p align="center">
+   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#">
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL">
 </p>
 
