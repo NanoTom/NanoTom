@@ -56,15 +56,7 @@ Here are some of the projects I've worked on:
 ## Connect with Me
 
 You can connect with me on:
-- [LinkedIn]((https://www.linkedin.com/in/seif-wael-elsayed/))
-- [LeetCode]((https://leetcode.com/SeifWaelElsayed/))
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/seif-wael-elsayed/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
-  <a href="https://leetcode.com/SeifWaelElsayed/"><img src="https://icons8.com/icon/9L16NypUzu38/level-up-your-coding-skills-and-quickly-land-a-job" alt="LeetCode"></a>
-</p>
-
-
+- 
 
 Feel free to explore my repositories to learn more about my work!
 
